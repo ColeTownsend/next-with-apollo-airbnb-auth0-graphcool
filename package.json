@@ -9,7 +9,7 @@
     "plop": "plop --plopfile internals/generators/index.js"
   },
   "dependencies": {
-    "auth0-lock": "^10.13.0",
+    "auth0-lock": "^11.21.0",
     "body-parser": "^1.17.1",
     "connect-redis": "^3.2.0",
     "env-cmd": "^5.0.0",
